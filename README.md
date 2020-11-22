@@ -44,4 +44,4 @@ Retrouver le dans le dossier "Code arduino", télécharger le fichier et télév
 
 ---- 
 Si vous avez besoin d'aide, contactez nous!
-Email: diallo@bloctechno.com
+Email: mamadou.diallo@sonatelacademy.sn
